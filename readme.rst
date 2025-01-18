@@ -1,3 +1,5 @@
+Please Extract system rar before use
+
 ###################
 What is CodeIgniter
 ###################
